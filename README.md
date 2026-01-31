@@ -11,7 +11,7 @@
 
 <!-- About Me Section -->
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2QyZzZ5eXAzcXZ3NWc2eXAzcXZ3NWc2eXAzcXZ3NWc2eXAzcXZ3OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/L1R1TVThqceKoyYfbX/giphy.gif" width="150" align="right" alt="Coding Gif" />
+  <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="150" align="right" alt="Coding Gif" />
 </div>
 
 ## 🚀 About Me
