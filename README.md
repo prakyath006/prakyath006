@@ -41,7 +41,7 @@
 <a href="https://leetcode.com/u/prakyath1496/" target="_blank">
   <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode" />
 </a>
-<a href="mailto:prakyath006@gmail.com"> <!-- Placeholder email, user can edit -->
+<a href="mailto:prakyathnandigam18@gmail.com"> <!-- Placeholder email, user can edit -->
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
 </a>
 
