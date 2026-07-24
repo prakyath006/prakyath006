@@ -108,7 +108,7 @@ while (alive) {
 
 <br/><br/>
 
-<img src="https://github-profile-trophies.vercel.app/?username=prakyath006&theme=darkhub&no-frame=true&no-background=true&margin-w=15" alt="GitHub Trophies" />
+<img src="https://raw.githubusercontent.com/prakyath006/prakyath006/main/assets/octocat.gif" width="250" alt="GitHub Octocat" />
 
 </div>
 
