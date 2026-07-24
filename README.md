@@ -1,6 +1,6 @@
 <div align="center">
 
-# NANDIGAM PRAKYATH
+# PRAKYATH NANDIGAM
 
 ### Cloud Enthusiast | Full-Stack Architect | Problem-Solver
 
@@ -8,7 +8,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Outfit&weight=600&size=28&pause=1000&color=89B4FA&center=true&vCenter=true&width=650&lines=%E2%98%81%EF%B8%8F+Cloud+Enthusiast;%F0%9F%92%BB+Full-Stack+Architect;%F0%9F%9A%80+Building+Scalable+Digital+Experiences" alt="Typing SVG" />
 </a>
 
-<img src="https://raw.githubusercontent.com/prakyath006/prakyath006/main/assets/octocat.gif" width="250" alt="GitHub Octocat" />
+<img src="https://raw.githubusercontent.com/prakyath006/prakyath006/main/assets/octocat.gif" width="550" alt="GitHub Octocat" />
 
 <br/><br/>
 
@@ -34,7 +34,7 @@ Computer Science undergraduate with strong problem-solving skills and a focus on
 
 ```javascript
 const prakyath = {
-    name: "Nandigam Prakyath",
+    name: "Prakyath Nandigam",
     role: "SE Engineer & Full-Stack Developer",
     location: "India",
     education: "Computer Science Engineering @ Amrita Vishwa Vidyapeetham",
