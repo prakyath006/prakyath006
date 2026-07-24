@@ -8,9 +8,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Outfit&weight=600&size=28&pause=1000&color=89B4FA&center=true&vCenter=true&width=650&lines=%E2%98%81%EF%B8%8F+Cloud+Enthusiast;%F0%9F%92%BB+Full-Stack+Architect;%F0%9F%9A%80+Building+Scalable+Digital+Experiences" alt="Typing SVG" />
 </a>
 
-<br/><br/>
-
-<img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="700" alt="Coding Banner" />
+<img src="https://raw.githubusercontent.com/prakyath006/prakyath006/main/assets/octocat.gif" width="250" alt="GitHub Octocat" />
 
 <br/><br/>
 
@@ -106,9 +104,6 @@ while (alive) {
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=prakyath006&theme=darkhub&hide_border=true" alt="GitHub Streak" width="790" />
 
-<br/><br/>
-
-<img src="https://raw.githubusercontent.com/prakyath006/prakyath006/main/assets/octocat.gif" width="250" alt="GitHub Octocat" />
 
 </div>
 
